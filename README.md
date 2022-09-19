@@ -52,13 +52,13 @@ In output, three SVG files are generated. The first one is the input points, the
 
 1. [Points with bounding box](aero_1.svg)
 
-![aero_1](aero_1.png)
+![aero_1](aero_1.PNG)
 
 2. [Polygon from given points](aero_2.svg)
 
-![aero_2](aero_2.png)
+![aero_2](aero_2.PNG)
 
 
 3. [Convex hull](aero_3.svg)
 
-![aero_3](aero_3.png)
+![aero_3](aero_3.PNG)
